@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Objects;
 
-//admin control
+//admin controller
 
 @RestController
 @RequestMapping
