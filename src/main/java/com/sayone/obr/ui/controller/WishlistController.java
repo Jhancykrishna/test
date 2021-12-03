@@ -19,7 +19,7 @@ import org.springframework.security.core.Authentication;
 
 import java.util.List;
 
-//wishlist controller
+
 @RestController
 @RequestMapping("wishlist")
 public class WishlistController {
