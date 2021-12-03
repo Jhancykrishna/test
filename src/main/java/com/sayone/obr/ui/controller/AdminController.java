@@ -22,7 +22,7 @@ import java.util.Objects;
 //admin controller- control admin function
 //123
 //12345
-//1234567
+
 @RestController
 @RequestMapping
 public class AdminController {
