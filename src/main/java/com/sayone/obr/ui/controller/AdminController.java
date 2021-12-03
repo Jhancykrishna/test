@@ -19,8 +19,10 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Objects;
 
-//admin controller
-
+//admin controller- control admin function
+//123
+//12345
+//1234567
 @RestController
 @RequestMapping
 public class AdminController {
