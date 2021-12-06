@@ -22,6 +22,9 @@ import java.util.Objects;
 
 //this has admin information
 
+//admin information controller
+
+
 
 @RestController
 @RequestMapping
