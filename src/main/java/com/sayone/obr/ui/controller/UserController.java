@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Objects;
 
 //usercontroller
-//this has crud operation of user
+//this has crud operation of user controller
 
 @RestController
 
